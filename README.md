@@ -27,3 +27,6 @@ _italic words_
 
 Supported emojis [here](https://www.webfx.com/tools/emoji-cheat-sheet/)
 Markdown exercises [here](https://www.markdowntutorial.com/)
+
+<!-- Quote -->
+> It's a quote
