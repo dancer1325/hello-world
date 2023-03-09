@@ -32,4 +32,3 @@ Markdown exercises [here](https://www.markdowntutorial.com/)
 > It's a quote
 
 Testing
-
